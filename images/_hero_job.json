@@ -1,0 +1,21 @@
+[
+  {
+    "created_at": "2026-08-08T23:16:45.82627Z",
+    "display_name": "Nano Banana 2",
+    "id": "57d371c9-69e6-420c-bc4f-9272ac331c8d",
+    "job_type": "nano_banana_flash",
+    "min_result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3HeXLwTuNHZUHFBlDwTemZVPhfj/hf_20260808_231645_57d371c9-69e6-420c-bc4f-9272ac331c8d_min.webp",
+    "params": {
+      "aspect_ratio": "3:2",
+      "batch_size": 1,
+      "height": 848,
+      "medias": [],
+      "prompt": "Studio product photograph of a coral (living-coral soft salmon-pink) short-sleeve polo shirt in premium cotton pique. Invisible ghost-mannequin so the shirt holds a natural worn shape, ribbed flat collar, two-button placket, clean side seams, centered in frame. Background: warm ivory seamless paper. Soft diffused daylight from the left with a gentle natural shadow. Crisp fabric texture and visible stitch detail, true-to-life color, editorial e-commerce fashion lookbook aesthetic, minimalist. No text, no words, no logos, no props.",
+      "reference_elements": [],
+      "resolution": "1k",
+      "width": 1264
+    },
+    "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3HeXLwTuNHZUHFBlDwTemZVPhfj/hf_20260808_231645_57d371c9-69e6-420c-bc4f-9272ac331c8d.png",
+    "status": "completed"
+  }
+]
